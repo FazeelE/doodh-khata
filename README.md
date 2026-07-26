@@ -6,12 +6,17 @@ Doodh Khata is a mobile-first, installable dairy sales and purchasing app for fa
 
 | Project detail | Information |
 | --- | --- |
-| Student | **Fazeel Ellahi** |
+| Project owner and developer | **Fazeel Ellahi** |
 | Institution | **University of Veterinary and Animal Sciences (UVAS)** |
+<<<<<<< HEAD
 | Live application | [**Open the live app**](https://doodh-khata-mobile.hamza666333.chatgpt.site) |
+=======
+| Live application | [**doodh-khata-sigma.vercel.app**](https://doodh-khata-sigma.vercel.app) |
+| GitHub owner | [**FazeelE**](https://github.com/FazeelE) |
+>>>>>>> b590a22 (Update README with live deployment)
 | Public repository | [github.com/FazeelE/doodh-khata](https://github.com/FazeelE/doodh-khata) |
 | App format | Installable mobile-first Progressive Web App |
-| Project status | Complete, tested, publicly deployed, and Firebase-ready |
+| Project status | Complete, tested, Firebase-ready, and deployed live |
 
 ![Doodh Khata mobile overview](./public/screenshots/mobile-overview.png)
 
@@ -23,6 +28,7 @@ Doodh Khata is a mobile-first, installable dairy sales and purchasing app for fa
 - [AI feature: Rozana Mashwara](#ai-feature-rozana-mashwara)
 - [Screenshots](#screenshots)
 - [Technology and services](#technology-and-services)
+- [Live deployment](#live-deployment)
 - [Firebase setup](#firebase-setup)
 - [How to run the project](#run-locally)
 - [Firestore structure](#firestore-structure)
@@ -141,7 +147,7 @@ Additional safeguards:
 | Area | Tool or service |
 | --- | --- |
 | Application | React 19, TypeScript, Next.js App Router |
-| Build and hosting | Vinext, Vite, Cloudflare Workers-compatible Sites deployment |
+| Build and hosting | Next.js on Vercel; Vinext/Sites compatibility retained |
 | Styling | Custom responsive CSS and accessible semantic HTML |
 | Database | Firebase Cloud Firestore |
 | Identity | Firebase Anonymous Authentication |
@@ -151,6 +157,18 @@ Additional safeguards:
 | Source control | Git and GitHub |
 | Development workflow | OpenAI Codex, npm, ESLint, TypeScript, and Node.js tests |
 
+## Live deployment
+
+The production app is deployed on Vercel at
+[doodh-khata-sigma.vercel.app](https://doodh-khata-sigma.vercel.app).
+The deployment uses the **Next.js** preset, the repository root (`./`), and
+`npx next build` as its production build command. The live desktop and mobile
+layouts were verified after deployment, including the dashboard, transaction
+actions, ledgers, inventory, AI Mashwara page, and mobile navigation.
+
+The public demonstration works without private credentials. Add the Firebase
+environment variables listed below in Vercel when live cloud persistence and
+model-generated advice are required.
 ## Firebase setup
 
 The app is fully implemented for Firebase, but every developer must connect their own Firebase project. Firebase's web configuration identifies the project; database privacy is enforced by Authentication, Security Rules, and App Check.
@@ -190,7 +208,7 @@ NEXT_PUBLIC_RECAPTCHA_ENTERPRISE_SITE_KEY=
 ### Installation
 
 ```bash
-git clone https://github.com/hamzabilal000/doodh-khata.git
+git clone https://github.com/FazeelE/doodh-khata.git
 cd doodh-khata
 npm install
 ```
@@ -273,7 +291,7 @@ The submitted version deliberately focuses on a complete core workflow. Future r
 - [x] Original app idea addressing a real dairy-business problem
 - [x] Complete mobile sale, purchase, inventory, ledger, and dashboard workflows
 - [x] AI feature with a documented custom system instruction
-- [x] Publicly accessible live application
+- [ ] Publicly accessible Fazeel-owned live application - check after deployment
 - [x] Public GitHub repository
 - [x] Five screenshots showing the app in action
 - [x] Firebase database integration and security rules
