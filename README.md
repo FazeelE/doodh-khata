@@ -9,7 +9,7 @@ Doodh Khata is a mobile-first, installable dairy sales and purchasing app for fa
 | Student | **Fazeel Ellahi** |
 | Institution | **University of Veterinary and Animal Sciences (UVAS)** |
 | Live application | [**Open the live app**](https://doodh-khata-mobile.hamza666333.chatgpt.site) |
-| Public repository | [github.com/hamzabilal000/doodh-khata](https://github.com/hamzabilal000/doodh-khata) |
+| Public repository | [github.com/hamzabilal000/doodh-khata](https://github.com/FazeelE/doodh-khata) |
 | App format | Installable mobile-first Progressive Web App |
 | Project status | Complete, tested, publicly deployed, and Firebase-ready |
 
