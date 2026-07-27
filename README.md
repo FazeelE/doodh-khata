@@ -14,7 +14,7 @@ Doodh Khata is a mobile-first, installable dairy sales and purchasing app for fa
 | App format | Installable mobile-first Progressive Web App |
 | Project status | Complete, tested, Firebase-ready, and deployed live |
 
-![Doodh Khata mobile overview](https://github.com/FazeelE/doodh-khata/blob/main/doodh-khata-mobile-app-preview.PNG?raw=true)
+![Doodh Khata mobile overview](doodh-khata-mobile-app-preview.PNG)
 
 ## Project report contents
 
