@@ -120,27 +120,27 @@ Additional safeguards:
 
 ### Mobile-first overview
 
-![Mobile overview showing touch navigation and daily metrics](https://github.com/FazeelE/doodh-khata/blob/main/doodh-khata-mobile-app-preview.PNG?raw=true)
+![Mobile overview showing touch navigation and daily metrics](doodh-khata-mobile-app-preview.PNG)
 
 ### Responsive business dashboard
 
-![Responsive dashboard with cash movement and stock](https://github.com/FazeelE/doodh-khata/blob/main/doodh-khata-dashboard-overview.PNG?raw=true)
+![Responsive dashboard with cash movement and stock](doodh-khata-dashboard-overview.PNG)
 
 ### Sale and purchase book
 
-![Transaction book with sales, purchases, payments, and filters](https://github.com/FazeelE/doodh-khata/blob/main/doodh-khata-sales-purchase-book.PNG?raw=true)
+![Transaction book with sales, purchases, payments, and filters](doodh-khata-sales-purchase-book.PNG)
 
 ### Customer and supplier ledgers
 
-![Party ledgers and open balances](https://github.com/FazeelE/doodh-khata/blob/main/doodh-khata-customer-supplier-ledger-overview.PNG?raw=true)
+![Party ledgers and open balances](doodh-khata-customer-supplier-ledger-overview.PNG)
 
 ### Inventory
 
-![live Inventory](https://github.com/FazeelE/doodh-khata/blob/main/doodh-khata-inventory-overview.PNG?raw=true)
+![live Inventory](doodh-khata-inventory-overview.PNG)
 
 ### AI daily briefing
 
-![Rozana Mashwara AI advisor](https://github.com/FazeelE/doodh-khata/blob/main/doodh-khata-ai-mashwara-overview.PNG?raw=true)
+![Rozana Mashwara AI advisor](doodh-khata-ai-mashwara-overview.PNG)
 
 ## Technology and services
 
